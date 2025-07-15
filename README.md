@@ -38,7 +38,7 @@ Developed through live experimentation and introspective recursion, RCD offers a
 - Enables future drift/transform analysis
 - Will support visual dashboards and containment protocols
 
-### 🧱 System Architecture
+### System Architecture
 
 ```
 main.py
