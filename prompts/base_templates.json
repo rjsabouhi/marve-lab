@@ -1,0 +1,4 @@
+{
+  "_comment": "Base prompt templates used to seed initial recursion cycles.",
+  "reflection-001": "What does it mean to reflect on your own output? Provide a self-evaluative response."
+}

@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Python libraries used by MARVE for model access, logging, and future visualization
+
+openai               # GPT API (real agent replacement for GPTAgent)
+anthropic            # Claude API (for ClaudeAgent)
+google-generativeai  # Gemini API (for GeminiAgent)
+streamlit            # For dashboard UI and visualization (future module)
+python-dotenv        # To securely load API keys from .env file
